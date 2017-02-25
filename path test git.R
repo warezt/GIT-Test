@@ -13,3 +13,5 @@
 https://nicercode.github.io/git/branches.html
 
 ' Deleted test 3.09 and add this text'
+
+How to delete remote branch (Local or remote)'
