@@ -11,3 +11,5 @@
 ' test 3.09pm'
 
 'This is new idea' 
+' To upload branch from shell
+http://stackoverflow.com/questions/2765421/how-to-push-a-new-local-branch-to-a-remote-git-repository-and-track-it-too
